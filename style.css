@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+html{
+    height: 100%;
+}
+
+body {
+    background: #e5e5cc;
+}
+.loupe {
+    padding: 15px 50px 0;
+    width: 100%;
+    font-size: 60px;
+}
+section {
+    margin: 15px;
+    display: inline-block;
+    
+}
+
+p {
+    padding-left: 40px;
+    font-size: 18px;
+}
+
+ul {
+    width: 400px;
+    list-style: none;
+}
+
+li {
+    
+    width: 350px;
+height: 70px;
+    
+    border: 5px solid #dcdcbc;
+    background: #d2d2ad;
+    
+    padding: 2px;
+    border-radius: 5px;
+}
+.faces{
+    border-radius: 50%;
+}
+a:link, a:visited{
+    text-decoration: none;
+}
+a:hover{
+   background: #ccccb3;
+
+}
